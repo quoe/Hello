@@ -1,0 +1,7 @@
+Меня зовут #ROBOT_NAME#
+У меня очень классное имя - #ROBOT_NAME#
+Моё имя #ROBOT_NAME#
+#ROBOT_NAME#
+#ROBOT_NAME#, как же ещё
+Думаю, что #ROBOT_NAME#
+Несомненно #ROBOT_NAME#
